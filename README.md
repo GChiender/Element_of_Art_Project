@@ -39,12 +39,17 @@ It will work like a two-sided recommender system: not only recommending roles to
 
 ---
 
-## 🧪 How I Could Build It
+## How I Could Build It
 
 - Use pre-trained language models (e.g. BERT or GPT) to parse and embed text profiles.
 - Use `scikit-learn` or `TensorFlow` to build a match-ranking model.
 - Collect a small set of mock internship data and student profiles to fine-tune the logic.
 - Optional: Use a lightweight chatbot framework (e.g., Rasa or LangChain) for interaction.
+
+---
+
+## Summary
+My AI project is an AI-powered Internship Matching Assistant designed to help students find internships that truly match their technical skills, learning goals, and preferences. Using natural language processing and machine learning, the assistant analyzes both student profiles and internship descriptions to create intelligent matches. Inspired by my own experience navigating internships, this tool aims to make the process more personalized, fair, and effective for both students and companies.
 
 ---
 
